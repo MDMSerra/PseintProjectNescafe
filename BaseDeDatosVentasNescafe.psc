@@ -221,7 +221,6 @@ SubProceso imprimirTablaRendimientoPorVendedor(seleccion,matrizFinal,fila,column
 	FinPara
 	finRenglonIntermedio()
 	renglonInferior(45,ancho,columna-1)
-	
 	Escribir ""
 FinSubProceso
 
