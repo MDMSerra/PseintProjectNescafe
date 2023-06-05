@@ -1,7 +1,5 @@
-# PseintProjectNescafe
-Programa para ver las ventas por region de 4 vendedores. Codigo en PSeint.
-seleccionamos 4 vendedores, sus nombres seran ingresados por usuario, limite max. de caracteres 10 por vendedor.
-se generaran de manera aleatoria una base de datos relacionadas con las ventas esperadas para los vendedores, las ventas de cada vendedor y el rendimiento final, comparando con los valores esperados.
+# 📊 PseintProjectNescafe
+💼 Programa para ver las ventas por región de 4 vendedores. El código está escrito en pseudocodigo usando el interprete PSeInt. Seleccionamos 4 vendedores, cuyos nombres serán ingresados por el usuario. Cada vendedor tiene un límite máximo de 10 caracteres en su nombre. Generaremos de manera aleatoria una base de datos relacionada con las ventas esperadas para cada vendedor. Tambien se generaran las ventas de cada vendedor y se calculará el rendimiento final, comparándolo con los valores esperados. 🔍
 
 como primer instancia veremos la caratula de nescafe y nos pedira que presionemos una tecla para continuar
 ![1_CaratulaDeTerminal](https://github.com/MDMSerra/PseintProjectNescafe/assets/122322927/23c3f182-53e1-4a4e-bd7f-53790acde55f)
