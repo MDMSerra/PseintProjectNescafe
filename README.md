@@ -33,16 +33,16 @@ presiono 7 + ENTER -> "7 - Total de ventas en Todas las Zonas"
 si me encuentro en el menu principal y presiono 8 ingreso al submenu -> "8 - Total de ventas de vendedor"
 ![10_RendimientoVentasMenu](https://github.com/MDMSerra/PseintProjectNescafe/assets/122322927/aa6b50bd-a0f6-46aa-a5f3-160a5389067f)
 
-si desde submenu 8 presiono 1 -> "1 - Rendimiento en Ventas de <primer vendedor ingresado>"
+si desde submenu 8 presiono 1 -> "1 - Rendimiento en Ventas de -primer vendedor ingresado-"
 ![11_RendimientoVentasVendedor1](https://github.com/MDMSerra/PseintProjectNescafe/assets/122322927/aaa726a2-e2b5-43ac-94f9-a560c5f482af)
 
-si desde submenu 8 presiono 2 -> "2 - Rendimiento en Ventas de <segundo vendedor ingresado>"
+si desde submenu 8 presiono 2 -> "2 - Rendimiento en Ventas de -segundo vendedor ingresado-"
 ![12_RendimientoVentasVendedor2](https://github.com/MDMSerra/PseintProjectNescafe/assets/122322927/d0b33680-8982-4d14-ae58-12d6320d2266)
 
-si desde submenu 8 presiono 3 -> "3 - Rendimiento en Ventas de <tercer vendedor ingresado>"
+si desde submenu 8 presiono 3 -> "3 - Rendimiento en Ventas de -tercer vendedor ingresado-"
 ![13_RendimientoVentasVendedor3](https://github.com/MDMSerra/PseintProjectNescafe/assets/122322927/fb355514-93de-47b7-9ca7-d6e64629dbfc)
 
-si desde submenu 8 presiono 4 -> "4 - Rendimiento en Ventas de <cuarto vendedor ingresado>"  
+si desde submenu 8 presiono 4 -> "4 - Rendimiento en Ventas de -cuarto vendedor ingresado-"  
 ![14_RendimientoVentasVendedor4](https://github.com/MDMSerra/PseintProjectNescafe/assets/122322927/371118e7-2c96-4e48-bfe7-19930f0740db)
 
 si desde submenu 8 presiono 5 -> "5 - Rendimiento en Ventas de Todos los vendedores"    
